@@ -75,7 +75,7 @@ Write equations directly into standard text boxes using intuitive human-friendly
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/excalidraw-math.git
+git clone https://github.com/sm-shafin-ahmad/excalidraw-math.git
 
 # Navigate into the project directory
 cd excalidraw-math
